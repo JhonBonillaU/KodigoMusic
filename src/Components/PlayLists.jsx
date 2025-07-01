@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import styled from 'styled-components';
-import ChillImg from '../img/chill.jpg';
+import ChillImg from '../img/Chill.jpg';
 import AcoustingImg from '../img/Acousting.jpg';
 import JazzImg from '../img/Jazz.jpg';
 import PartyImg from '../img/Party.jpg';
