@@ -1,0 +1,17 @@
+{
+    "hosting": {
+    "site": "kodigo-music-6a7a6-90203",
+    "public": "dist",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ],
+    "rewrites": [
+      {
+        "source": "**",
+        "destination": "/index.html"
+      }
+    ]
+    }
+}
